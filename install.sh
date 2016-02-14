@@ -1,1 +1,1 @@
-ln -sv "~/.dotfiles/vimperatorrc" ~
+ln -sv "~/.dotfiles/.vimperatorrc" ~

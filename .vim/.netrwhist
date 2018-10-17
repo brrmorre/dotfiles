@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/doot/Research/raptor/raptor/raptor/build/CMakeFiles'
 let g:netrw_dirhist_2='/home/doot/.lamo'
 let g:netrw_dirhist_3='/home/doot/lel'
 let g:netrw_dirhist_4='/home/doot/My Games/unitale/Mods/Gravity Demo/Lua/Encounters'
 let g:netrw_dirhist_5='/home/doot/ECE/ece220/mp10/matrices/output_mats/gold'
 let g:netrw_dirhist_6='/home/doot/.dotfiles/.vim/ftplugin'
+let g:netrw_dirhist_7='/home/bmorrel2/cusbuilds/llvm-semantics-1/semantics/llvm-semantics-kompiled'
